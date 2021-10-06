@@ -1,0 +1,2 @@
+### 28 Sep, 21
+##### This script checks if a voucher is redeemed or not by providing the text "Voucher not found", "Coupon is already redeemed", or "Coupon redemptions are closed for the coupon". These texts help us determine the voucher code current status.
